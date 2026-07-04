@@ -1,4 +1,3 @@
-https://teto-3.onrender.com/
 async function send(){
 
     const box = document.getElementById("message");
